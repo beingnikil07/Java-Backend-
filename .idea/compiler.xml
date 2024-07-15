@@ -22,6 +22,7 @@
         <module name="example5" />
         <module name="example17" />
         <module name="example4" />
+        <module name="example18" />
         <module name="example1" />
       </profile>
     </annotationProcessing>
